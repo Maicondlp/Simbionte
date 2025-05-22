@@ -1,1 +1,2 @@
-![13925](https://github.com/user-attachments/assets/17a4849b-2bf7-4873-8eae-f5d01b5d6c8a)
+Este Python Script tem o propósito de juntar arquivos que possuem nomes iguais, porém com extensões diferentes, em um arquivo compactado com o 7ZIP.
+Para que a script possa funcionar corretamente e necessário ter o 7zip instalado na estação de trabalho.
